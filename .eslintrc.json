@@ -10,7 +10,7 @@
     "sourceType": "module"
   },
   "rules": {
-    "indent": ["error", 4], // indent 2 spaces
+    "indent": ["error", 4], // indent 4 spaces
     "semi": ["error", "always"] // require semicolon
   }
 }
